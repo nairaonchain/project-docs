@@ -1,61 +1,73 @@
-# NairaOnChain
 
-**Mission**  
-Onboard Nigerian youth into Web3 through culturally relevant memes, NFT drops, and mobile-first wallet education — powered by Polygon and Solana.
+# 🟣 NairaOnChain
 
----
-
-## 🧠 What is NairaOnChain?
-
-NairaOnChain is a creative Web3 onboarding platform for African youth.  
-We simplify crypto by combining meme culture, NFTs, and mobile wallet guides in English and Pidgin.
+**Empowering African creators through onchain culture, memes, and NFTs.**
 
 ---
 
-## 🔥 What We Offer
+## 🧠 About the Project
 
-- 🎭 Meme NFT drops (weekly, AI-generated)
-- 📲 Wallet setup guides (mobile-first)
-- 🧑🏽‍🤝‍🧑🏿 Onchain community quests via Telegram & X
-- ✍🏽 Native language content (Pidgin/English)
-- 🪙 Free mint campaigns on Zora (Polygon) & Solana
+**NairaOnChain** is a Web3-native cultural project focused on:
+- Launching meme-based NFT drops representing Nigerian and African identity.
+- Educating creators and users about NFTs, decentralization, and crypto literacy.
+- Using open-source tools, AI, and community collaboration to bring Africa onchain.
 
----
-
-## 🛠️ Stack & Integrations
-
-- **Smart Contract Layers:** Polygon, Zora, Solana (coming)
-- **Content Tools:** AI meme generation, Zora Create, NFT.Storage
-- **Community:** Twitter, Telegram, Mirror
-- **Wallets:** MetaMask, Phantom, Rainbow
+We build using:
+- **Polygon** for gas-efficient minting
+- **Zora** for decentralized media storage
+- **Bitcoin** (future) to explore Lightning/NFT experiments
 
 ---
 
-## 📊 Impact Goals
+## 🎯 Mission & Vision
 
-- 500+ NFTs minted by Nigerians  
-- 300+ wallets created via our guides  
-- 1,000+ community members onboarded  
-- Local youth trained to mint, earn, and create onchain
+> **Mission**: Make Africa visible onchain through culturally rich, community-driven NFT content.
 
----
-
-## 🔗 Links
-
-- **Twitter/X:** [@nairaonchain](https://x.com/nairaonchain)  
-- **Telegram:** [Insert Telegram link]  
-- **Wallet Address:** `0x8CD9643E251654dff7F982B199C34f7e6Eea864e`
+> **Vision**: A decentralized creative ecosystem where memes, art, and identity translate into ownership and value.
 
 ---
 
-## 📁 Grant Applications Submitted
+## 💼 Roadmap (2025)
 
-- QuickLaunch x Polygon Community Grant
-- Superteam Solana Microgrants
-- Zora Creator Fund *(in progress)*
+| Milestone | Description | Status |
+|----------|-------------|--------|
+| Meme NFT Series 1 | Launch Nigerian-inspired meme NFTs on Zora | ✅ Completed |
+| Community Growth | Reach 1,000+ X followers & collectors | 🔄 Ongoing |
+| Gitcoin + Btrust Grant Applications | Apply to secure funding | ✅ Submitted |
+| Open-Source Tools | Develop AI-powered meme/NFT generator | 🔜 In planning |
+| Onchain Education | Launch IG + X threads for Web3 literacy | 🟢 Live soon |
 
 ---
 
-## ⚖️ License
+## 🔧 Tech Stack
 
-This project is licensed under the MIT License.
+- **Frontend**: HTML/CSS, JavaScript
+- **AI Tools**: ChatGPT, DALL·E for meme/NFT generation
+- **Blockchain**: Zora Protocol, Polygon PoS
+- **Wallets**: MetaMask, WalletConnect
+- **Storage**: IPFS
+- **Community**: X (Twitter), Farcaster, Telegram
+
+---
+
+## 👥 Team
+
+**Founder**: Michael Stephen  
+Web3 strategist, digital creative, and community builder focused on African NFT adoption.
+
+---
+
+## 🌐 Links
+
+- [Twitter: @nairaonchain](https://twitter.com/nairaonchain)
+- [Zora: NairaOnChain](https://zora.co/nairaonchain)
+- [GitHub Repo](#) ← (Add this repo link)
+- [MetaMask Wallet](0x8CD9643E251654dff7F982B199C34f7e6Eea864e)
+
+---
+
+## 🤝 Support Us
+
+We’re actively applying for open-source and cultural grants. Want to collaborate, fund, or co-create with us?
+
+**DM @nairaonchain** or connect on Telegram.
